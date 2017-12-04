@@ -1,5 +1,11 @@
 %In class 21
 
+%GB comments
+1 40 Script fails and there is not discussion on the results as the question asks. 
+2 70 Same problems with the script but won’t take off for it here since it reoccurs from the previous question. Though your discussion is incorrect and doesn’t accurately describe the relationship between parameters. Expected a more detailed explanation in how the behavior of the overall system changes as parameters were changed relative to one another. 
+Overall 55
+
+
 % 1. Consider the system we discussed in class for a gene which is produced
 % and degraded: dx/dt = k - d*x. Now consider that this gene turns on a
 % second gene y, which also degrades so that its equation is 
